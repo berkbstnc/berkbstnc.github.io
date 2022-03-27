@@ -42,7 +42,7 @@
                     <div class="subheading mb-5">
                         COMPUTER ENGINEER                     
                     </div>
-                    <p class="lead mb-5">Hi! Welcome to my personal website. You can find my projects on this website.</p>					
+                    <p class="lead mb-5">Hi! Welcome to my personal website. You can find my projects on this website. <br/>If you want to contact with me, please use the links below. </p>					
                     <div class="social-icons">
                         <a class="social-icon" href="https://www.linkedin.com/in/berkbstnc/"><i class="fab fa-linkedin-in"></i></a>
                         <a class="social-icon" href="https://github.com/berkbstnc"><i class="fab fa-github"></i></a> 
